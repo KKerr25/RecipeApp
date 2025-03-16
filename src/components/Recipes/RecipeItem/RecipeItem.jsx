@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import CartContext from "../../store/CartContext.jsx";
+import CartContext from "../store/CartContext.jsx";
 import Classes from "./Recipeitem.module.css";
 
 const RecipeItem = (props) => {
